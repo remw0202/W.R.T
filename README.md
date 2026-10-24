@@ -2,10 +2,15 @@
 
 面向习惯养成和校园学习的 Android 应用，包含课表、任务待办、专注计时、宠物陪伴及学习统计。
 
-## 安装包
+## 下载安装
 
-[进入 Releases 页面](https://github.com/remw0202/W.R.T/releases)，查看已发布版本及 APK 附件。仅上传文档或保存草稿时，不代表安装包已公开发布。
+当前版本：**1.2.20**。
 
-本仓库用于分发 Android 安装包与版本说明。当前准备发布版本为 **1.2.20**，详细更新和安装方式见 [发布说明](RELEASE-NOTES.md)，校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
+- [下载 Android 安装包（约 175.5 MiB）](https://github.com/remw0202/W.R.T/releases/download/v1.2.20/W.R.T-1.2.20.apk)
+- [查看版本发布页](https://github.com/remw0202/W.R.T/releases/tag/v1.2.20)
+- [发布说明](RELEASE-NOTES.md)
+- [SHA256 校验值](SHA256SUMS.txt)
 
-同包名、同签名版本可以覆盖升级；建议安装前在应用内导出数据备份。尚未进行本版 Android 手机安装及锁屏真机验收。
+下载后在 Android 手机上打开 APK 安装。同包名、同签名版本可以覆盖升级；建议安装前在应用内导出数据备份。
+
+本仓库用于分发 Android 安装包与版本说明。尚未进行本版 Android 手机安装及锁屏真机验收。
