@@ -1,0 +1,7 @@
+{
+  "version": "1.2.29",
+  "versionCode": 39,
+  "apk": "https://github.com/remw0202/W.R.T/releases/download/v1.2.29/W.R.T-1.2.29.apk",
+  "sha256": "3116ef60665cdd5fcde2decff6f14a788f3a40fc5270ef2b516ecb0bd1e383bf",
+  "notes": "## 应用内更新测试\n\n本版用于验证从 W.R.T 1.2.28 下载、校验并覆盖安装新版的流程。\n\n请在已安装 1.2.28 的安卓手机上打开「设置」并点击「检查更新」。安装后确认版本为 1.2.29，并检查原有课表、待办和专注记录。"
+}
